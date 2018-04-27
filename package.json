@@ -1,0 +1,17 @@
+{
+  "name": "iota-seedstamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "iota.lib.js": "^0.4.7",
+    "readline-sync": "^1.4.9",
+    "semaphore": "^1.1.0"
+  }
+}
